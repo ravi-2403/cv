@@ -1,0 +1,69 @@
+h3{
+    color: #00ead3;
+}
+
+h1{
+    color: #00ead3;
+}
+
+img{
+    width:125px;
+    height: 125px; 
+}
+
+.main{
+    background-color: #caf7e3;
+    margin: 0px;
+}
+
+hr{
+    border-color: powderblue;
+    border-style: dotted;
+    border-width: 5px;
+    width: 40px;
+    border-bottom-style: none;
+    border-right-style: none;
+    border-left-style: none;
+     
+}  
+
+.prime{
+    padding-inline-start: 20px;
+}
+
+.dprime{
+    padding-inline-start: 20px;
+}
+
+.skill{
+    margin-bottom: 0px;
+}
+
+.fip{
+    width: 100%;
+    height: 450px;
+}
+
+/* .top-container{
+
+} */
+
+.intro{
+    padding-left: 580px;
+}
+
+.bottom-container{
+    padding-inline-start: 40%;
+    background-color: lightblue;
+    height: 5%;
+
+}
+
+.top{
+    background-color: powderblue;
+}
+
+.head{
+    text-emphasis-color: red;
+}
+
